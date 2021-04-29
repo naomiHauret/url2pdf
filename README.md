@@ -2,6 +2,8 @@
 
 URL2PDF is a micro service that aims to generate PDF from web pages easily by just providing the URL.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2FnaomiHauret%2Furl2pdf)
+
 ## API
 ### Generate a PDF
 #### Endpoint
