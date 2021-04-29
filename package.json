@@ -22,7 +22,6 @@
   },
   "scripts": {
     "prepare": "husky install",
-    "build": "npm run test:ci && npm run vercel-build ",
     "start": "vercel dev",
     "lint": "eslint .",
     "test": "jest",
