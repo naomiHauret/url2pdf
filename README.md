@@ -4,6 +4,19 @@ URL2PDF is a micro service that aims to generate PDF from web pages easily by ju
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2FnaomiHauret%2Furl2pdf)
 
+## Get started
+### Pre-requisites
+* Node version >= `14`
+* `npm` version >= `6.14`
+
+### Install
+* Install the dependencies with `npm i`
+* Launch the project with `npm start`
+* Hit `localhost:3000/api/generatePdf?from=https://google.com`. That's it !
+
+### Tests
+* You can run unit tests with `npm test`
+* Tests are written with [Jest](https://jestjs.io/)
 ## API
 ### Generate a PDF
 #### Endpoint
